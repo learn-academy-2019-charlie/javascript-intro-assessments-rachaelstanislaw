@@ -63,6 +63,12 @@ for(let i=0; i<mantra.length; i++){
 
 // Stretch: Using a while loop.
 
+let i=0
+while(i<mantra.length){
+    console.log(mantra[i])
+    i++
+}
+
 // Super Stretch: Using forEach().
 
 // Consider the following variable:
